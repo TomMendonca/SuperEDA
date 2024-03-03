@@ -19,4 +19,4 @@ The project is divided into two distinct parts:
 
 The consolidated project provides a comprehensive view of the techniques used in both parts, offering an understanding of software development with data structures. 
 
-To open the project, use Microsoft Visual Studio and open the corresponding `.sln` file for the desired section.
+To open the project, use [Microsoft Visual Studio](https://visualstudio.microsoft.com/) and open the corresponding `.sln` file for the desired section.
