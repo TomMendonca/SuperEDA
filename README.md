@@ -2,14 +2,15 @@
 
 This project was developed as part of the Data Structures and Algorithms course, aiming to apply the learned concepts by creating a supermarket simulation. 
 
+## Project Structure
 The project is divided into two distinct parts:
 
-1.Supermarket with Structs and Dynamic Arrays:
+### 1.Supermarket with Structs and Dynamic Arrays:
 
 - Utilizes Structs to encapsulate essential elements and Dynamic Arrays for dynamic memory management.
 - The source code and related files are contained in the `SuperEDA_Structs_Arrays` folder.
 
-2.Supermarket with Linked Lists and Binary Trees:
+### 2.Supermarket with Linked Lists and Binary Trees:
 
 - Introduces Linked Lists for dynamic data manipulation and Binary Trees for optimizing specific operations.
 - The relevant files for this section are located in the `SuperEDA_LinkedLists_BinaryTrees` folder.
