@@ -1,0 +1,100 @@
+apples
+bananas
+blueberries
+cantaloupe
+grapes
+lemons/limes
+oranges
+peaches
+plums
+strawberries
+watermelon
+broccoli
+carrots
+cauliflower
+coleslaw
+cucumbers
+garlic
+green beans
+green peppers
+mushrooms
+onions
+potatoes
+salad/lettuce
+sweet potatoes
+tomatoes
+salmon
+shrimp
+fish
+chicken
+ground beef
+steak
+roast beef
+pork chops
+pork roast
+ham
+sausage
+bacon
+hotdogs
+bagels
+butter
+cheese sticks
+cream cheese
+eggs
+english muffins
+flour tortillas
+half and half
+milk
+shredded cheddar
+sour cream
+soy milk
+yogurt
+whipping cream
+ajax
+bleach
+dish washer deterg.
+laundry detergent
+light bulbs
+napkins
+paper towels
+swiffer refill
+toilet paper
+trash bags
+zipper bags gal/quart
+sandwich/snack bags
+cereal
+cookies
+crackers
+nuts
+potato chips
+popcorn
+baking soda
+baking powder
+brown sugar
+coconut
+flour
+honey
+oil
+oregano
+pepper
+rosemary
+salt
+thyme
+applesauce
+fruit cocktail
+baked beans
+peaches
+pineapple
+rice
+tuna
+rotini
+shells
+spaghetti
+tomato paste
+tomato sauce
+tomatoes diced
+soy sauce
+steak sauce
+worcestershire
+wheat bread
+pizza
