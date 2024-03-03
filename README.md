@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) - Supermarket Projects
+# Supermarket Projects - Data Structures and Algorithms (DSA)
 
 This project was developed as part of the Data Structures and Algorithms course, aiming to apply the learned concepts by creating a supermarket simulation. 
 
